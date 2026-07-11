@@ -1,2 +1,14 @@
-# mohamed-elshenawy-restaurant-consulting
-[restaurant-consulting-site.zip](C:/Users/HP ELITBOOK/Documents/Codex/2026-06-16/new-chat/outputs/restaurant-consulting-site.zip)
+# مِعيار المطاعم
+
+موقع عربي لخدمات استشارات وتقييم وتشغيل وتطوير المطاعم داخل المملكة العربية السعودية.
+
+## الهوية
+
+- الاسم: مِعيار المطاعم
+- الوصف: للاستشارات والتشغيل والتطوير
+- الشعار التسويقي: نقيّم بدقة ونطوّر بخطة ونشغّل بنظام
+- المؤسس: محمد الشناوي
+
+## الألوان المستعادة
+
+تمت استعادة لوحة النسخة السابقة من `outputs/restaurant-consulting-site-with-personal-photo-light/styles.css`.
